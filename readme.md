@@ -1,0 +1,3 @@
+# ArcGIS Online Hosted Feature Service Publishing Workflow
+
+Two command-line scripts for automatically publishing and re-publishing hosted feature services on ArcGIS Online. The first, `open_arcmap.py`, is a pyautogui script that will open ArcMap and sign into online using the provided credentials. The second script, `publish_to_online.py` actually does the work of publishing/republishing a service to ArcGIS Online. 
